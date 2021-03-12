@@ -1,4 +1,8 @@
-li { list-style: none; text-decoration: none;}
+nav>ul>li { list-style: none; text-decoration: none; font-size: large;}
+h2 {color:rgb(19, 10, 107); -webkit-text-stroke: 0.15px white; font-weight: bolder; font-size:x-large; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 #body { background-image: url(../imagenes/nicaragua2.jpg); background-size: cover;}
 img {height: 30%; width: 30%;} 
-.vertical {height: 15%; width: 15%;} 
+.vertical {height: 15%; width: 15%;}
+table,tr,th,td {background-color: rgba(241, 216, 183, 0.781);}
+th,td {width: 600px; vertical-align: text-top;} 
+h1 {color:rgb(19, 10, 107); -webkit-text-stroke: 0.15px white; font-weight: bolder; font-size:xx-large; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
