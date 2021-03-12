@@ -1,2 +1,4 @@
-li { list-style: none;}
+li { list-style: none; text-decoration: none;}
 #body { background-image: url(../imagenes/nicaragua2.jpg); background-size: cover;}
+img {height: 30%; width: 30%;} 
+.vertical {height: 15%; width: 15%;} 
